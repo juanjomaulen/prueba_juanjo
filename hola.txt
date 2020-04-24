@@ -4,4 +4,5 @@ prueba pc chio 2
 prueba pc chio 3 
 prueba pc chio 4
 prueba pc chio 5
+prueba pc chio 6
 
